@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+:root {
+  --bg-color: #121215;
+  --font-color: #EAEAEa;
+  --small-color: #BEBEBF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  padding: 64px;
+}
+
+.memory {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  text-decoration: none;
+  margin-bottom: 64px;
+}
+
+.memory small {
+  color: var(--small-color);
+  font-size: 12px;
+}
+
+.memory h1 {
+  font-size: 2em;
+  color: var(--font-color);
+}
+
+.memory img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.memory p {
+  font-size: 18px;
+  color: #bebebf;
+  line-height: 28px;
+}
