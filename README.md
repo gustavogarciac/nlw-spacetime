@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/Thumbnail.png">
+  <img src="assets/Thumbnail.png">
 </p>
 
 ## 💻 Projeto
