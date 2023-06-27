@@ -1,16 +1,25 @@
-<p align="center">
-  <img src="assets/Thumbnail.png">
-</p>
+# Time Capsule
 
-## 💻 Projeto
-Esse é um projeto de desenvolvimento WEB Responsivo de uma cápsula do tempo que organiza memórias em uma timeline.
+## ✨ Live Preview
+You can access the live preview clicking [here](https://gustavogarciac.github.io/nlw-spacetime/).
+## Preview
 
-## 💜 Tecnologias
-Esse projeto foi desenvolvimento durante o NLW da Rocketseat com as seguintes tecnologias:
+![App Screenshot](./assets/Thumbnail.png)
+
+
+## How can I use it?
+
+Clone the project
+
+```bash
+  git clone git@github.com:gustavogarciac/nlw-spacetime.git
+```
+
+## 🚀 Technologies
 
 - HTML5
 - CSS
-- Git e Github
+- Git and Github
 
-## ✨ Layout
-Você pode visualizar o layout do projeto através [desse link](https://gustavogarciac.github.io/nlw-spacetime/index)
+## 💻 Project
+That's a Responsive WEB development project of a time capsule that organizes memories in a timeline.
